@@ -1,16 +1,36 @@
-## Hi there 👋
+# João Vitor Bettiol
 
-<!--
-**bettioljv/bettioljv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia da Computação, com foco em automação, inteligência artificial aplicada e dados.
 
-Here are some ideas to get you started:
+Atuo construindo soluções que saem do papel: automações de processos, integrações, análise de dados e interfaces de apoio à decisão. Tenho experiência prática com projetos acadêmicos e corporativos, incluindo CRM no Grupo Saga e automação de portais de energia no CEIA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Destaque: automação de portais de energia
+
+No **CEIA — Centro de Excelência em Inteligência Artificial**, atuei na frente da **ENEL** em um projeto de automação de faturas.
+
+Minha contribuição envolveu automação de login e navegação, interações com Selenium/SeleniumBase, tratamento de páginas dinâmicas, reutilização de sessão em requisições HTTP, validação inicial de PDFs e diagnóstico de falhas.
+
+→ [Ver o projeto RPA Cognitivo de Energia](https://github.com/bettioljv/RPA-Cognitivo-Energia)
+
+## Tecnologias e ferramentas
+
+- **Automação e desenvolvimento:** Python, Selenium, APIs, Postman, VS Code e Qt Creator
+- **Dados e BI:** SQL Server, Power BI, Excel/VBA e Power Automate
+- **IA e engenharia:** agentes de IA, processamento de dados, microcontroladores e sistemas embarcados
+
+## Interesses atuais
+
+- Automação inteligente de processos
+- Agentes de IA aplicados a operações reais
+- Dados, CRM e tomada de decisão
+- Hardware e sistemas embarcados
+
+## Projetos
+
+| Projeto | Foco |
+| --- | --- |
+| [RPA Cognitivo de Energia](https://github.com/bettioljv/RPA-Cognitivo-Energia) | Automação de fluxos de faturas de energia; contribuição focada na frente ENEL |
+| Projetos CEIA | Automação de portais e experimentos de IA em repositórios institucionais, conforme permissões de acesso |
+
+---
+Aberto a oportunidades em desenvolvimento, automação, dados e IA aplicada.
