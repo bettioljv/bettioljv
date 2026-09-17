@@ -10,7 +10,7 @@ No **CEIA — Centro de Excelência em Inteligência Artificial**, atuei na fren
 
 Minha contribuição envolveu automação de login e navegação, interações com Selenium/SeleniumBase, tratamento de páginas dinâmicas, reutilização de sessão em requisições HTTP, validação inicial de PDFs e diagnóstico de falhas.
 
-→ [Ver o projeto RPA Cognitivo de Energia](https://github.com/bettioljv/RPA-Cognitivo-Energia)
+→ [Ver o projeto RPA Cognitivo de Energia](https://github.com/bettioljv/RPA-Cognitivo-Energia) · [Entender minha contribuição na ENEL](https://github.com/bettioljv/RPA-Cognitivo-Energia/blob/main/docs/guia-para-recrutadores.md)
 
 ## Tecnologias e ferramentas
 
